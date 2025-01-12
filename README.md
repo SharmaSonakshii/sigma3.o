@@ -1,2 +1,2 @@
 # sigma3.o
-demo for git and github
+this demo for git and github
